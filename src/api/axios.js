@@ -1,7 +1,7 @@
 import axios from "axios";
 import toast from "react-hot-toast";
 
-const API_BASE_URL = "https://lms-backend-4h0o.onrender.com/";
+const API_BASE_URL = "https://lms-backend-su3r.onrender.com/";
 
 const api = axios.create({
   baseURL: API_BASE_URL,
